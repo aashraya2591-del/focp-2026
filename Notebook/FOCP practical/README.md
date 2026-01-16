@@ -3,27 +3,18 @@
 ## Weekly practical
 
 ### FOLDER STRUCTURE 
-
+```
 Notebook/
-
 FOCP Practical/
-
 Practical2/ Task.py
-
 pratical3/ Task.py
-
 practical4/Task.py
-
 practical5/ Task.py
-
 practical6/Task.py
-
 practical7/ Task.py
-
 practical8/Task.py
-
 README.md
-
+```
 ## Project Overview
 
 This repository contains a series of Python programming assignments designed to practice fundamental programming concepts. The tasks progressively build skills in area like input handling, data validation, calculations, control structures, and file operations.
