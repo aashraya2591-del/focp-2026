@@ -4,13 +4,9 @@
 ### FOLDER STRUCTURE 
 ```
 Final_focp/
-
 Project Program/
-
 FOCP TASK/
-
 Pizza_calculator.py
-
 README.md
 ```
 ## Programs Overview
