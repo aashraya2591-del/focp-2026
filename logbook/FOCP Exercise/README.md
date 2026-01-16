@@ -2,29 +2,19 @@
 ## WEEKLY EXERCISE
 
  ### FOLDER STRUCTURE
- 
+ ```
 Logbook/
-
 FOCP Exercises/
-
 Exercises 01.docx
-
 Exercises 02.docx
-
 Exercises 03.docx
-
 Exercises 04. docx
-
 Exercises 05. docx
-
 Exercises 06.docx
-
 Exercises 07.docx
-
 Exercises 08.docx
-
 README.md
-
+```
 ## What these Documents are 
 
 These are completed exercise logbooks for the Fundamentals of computer programming (FOCP) course. Each document contains questions and answers covering specific python programming topics studied throughout the course weeks.
